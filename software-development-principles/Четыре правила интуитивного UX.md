@@ -1,8 +1,8 @@
 # Четыре правила интуитивного UX
 
-Источник: (habr)[https://habr.com/ru/post/464459/]
+Источник: [habr](https://habr.com/ru/post/464459/)
 
-Оригинал: (learnui.design.blog)[https://learnui.design/blog/4-rules-intuitive-ux.html]
+Оригинал: [learnui.design.blog](https://learnui.design/blog/4-rules-intuitive-ux.html)
 
 ---
 
@@ -28,7 +28,7 @@
 
 За неимением лучшего примера:
 
-!()[https://pbs.twimg.com/media/DAmrazaXcAAfDLc?format=jpg&name=small]
+![](https://pbs.twimg.com/media/DAmrazaXcAAfDLc?format=jpg&name=small)
 > Somewhere out there, there's a team that knows HTML, but doesn't know the difference between a radio button and a checkbox. pic.twitter.com/VBwk8Jxekd— Erik D. Kennedy (@erikdkennedy) May 24, 2017
 > Где-то есть группа разработчиков, которые знают HTML, но не знают разницы между переключателем и флажком
 
