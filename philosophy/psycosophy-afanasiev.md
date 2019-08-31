@@ -65,4 +65,4 @@
 
 # Распределение психотипов по функциям
 
-Источник: (Психо-йога)[http://www.psycheyoga.info/lovesyntax/]
+Источник: [Психо-йога](http://www.psycheyoga.info/lovesyntax/)
