@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Using Kafka with Kerberos authentication from .NET Core
 category: technologies
-tags: [copypaste, technologies, development, kafka, .net, .net core]
+tags: [technologies, development, kafka, .net, .net core]
 ---
+
+# Using Kafka with Kerberos authentication from .NET Core
 
 Source: [.NET or not .NET](https://shatl.wordpress.com/2018/10/30/using-kafka-with-kerberos-authentication-from-net-core/)
 

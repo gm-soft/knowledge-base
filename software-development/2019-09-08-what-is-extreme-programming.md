@@ -1,9 +1,9 @@
 ---
-layout: post
-title: What is Extreme Programming (XP)?
 category: software development
 tags: [processes]
 ---
+
+# What is Extreme Programming (XP)?
 
 # Definition
 

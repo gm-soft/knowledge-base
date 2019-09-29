@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Why do browsers match CSS selectors from right to left?
 category: software development
 tags: [css, web]
 ---
+
+# Why do browsers match CSS selectors from right to left?
 
 Keep in mind that when a browser is doing selector matching it has one element (the one it's trying to determine style for) and all your rules and their selectors and it needs to find which rules match the element. This is different from the usual jQuery thing, say, where you only have one selector and you need to find all the elements that match that selector.
 

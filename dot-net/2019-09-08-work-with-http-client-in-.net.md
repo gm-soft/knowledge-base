@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Подводные камни HttpClient в .NET
 category: .net
 tags: [.net, development, theory]
 ---
+
+# Подводные камни HttpClient в .NET
 
 Источник: [Habr.com](https://habr.com/ru/post/424873/)
 

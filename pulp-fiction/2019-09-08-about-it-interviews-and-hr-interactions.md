@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Вольный опус про найм, собеседования и трэш на рынке IT-кадров
 category: pulp fiction
 tags: [pulp fiction, hr, career]
 ---
+
+#  Вольный опус про найм, собеседования и трэш на рынке IT-кадров
 
 [Habr.com](https://habr.com/ru/post/414243/)
 

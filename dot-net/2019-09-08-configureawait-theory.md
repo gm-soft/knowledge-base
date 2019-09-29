@@ -1,9 +1,9 @@
 ---
-layout: post
-title: ConfigureAwait, кто виноват и что делать?
 category: .net
 tags: [.net, development, theory, async]
 ---
+
+# ConfigureAwait, кто виноват и что делать?
 
 Источник: [habr](https://habr.com/ru/company/clrium/blog/463587/)
 
@@ -12,6 +12,7 @@ tags: [.net, development, theory, async]
 В своей практике я часто встречаю, в *различном* окружении, код вроде того, что приведен ниже:
 
 ```csharp
+
     [1] var x = FooWithResultAsync(/*...*/).Result;
     
     //или
@@ -31,6 +32,7 @@ tags: [.net, development, theory, async]
     
     //или просто
     [6] await FooAsync(/*...*/)
+    
 ```
 
 Из общения с авторами таких строк, стало ясно, что все они делятся на три группы:

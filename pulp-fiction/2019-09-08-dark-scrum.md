@@ -1,10 +1,9 @@
 ---
-layout: post
-title: Мрачный скрам
-subtitle: Копия статьи о скраме и его вариациях в энтерпрайзе
 category: pulp fiction
-tags: [copypaste, processes]
+tags: [processes]
 ---
+
+# Мрачный скрам
 
 [Источник](https://www.krivitsky.com/2017/06/06/%D0%BC%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9-%D1%81%D0%BA%D1%80%D0%B0%D0%BC/).
 

@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Четыре правила интуитивного UX
 category: software development
-tags: [design, copypaste]
+tags: [design]
 ---
+
+# Четыре правила интуитивного UX
 
 Источник: [habr](https://habr.com/ru/post/464459/)
 

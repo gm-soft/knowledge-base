@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Junior, Middle, Senior — в чем разница и куда дальше?
-subtitle: О том, какие роли есть в программировании, и как их менять
 category: pulp fiction
-tags: [copypaste, career, hr]
+tags: [career, hr]
 ---
 
-[Source](https://dataart.ru/news/junior-middle-senior-v-chem-raznifa-i-kuda-dalshe/)
+# Junior, Middle, Senior — в чем разница и куда дальше?
+
+Источник: [dataart.ru](https://dataart.ru/news/junior-middle-senior-v-chem-raznifa-i-kuda-dalshe/)
 
 ---
 

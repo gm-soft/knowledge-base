@@ -1,9 +1,11 @@
 ---
-layout: post
-title: What Is Readable Code?
 category: software development
 tags: [processes]
 ---
+
+# What Is Readable Code?
+
+Source: [Janeen Neri at medium.com](https://medium.com/s/story/readability-as-usability-78c5a2a373cc)
 
 > Code creates interfaces. But code itself is also an interface.
 

@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Все, что вы хотели знать об обработке запросов, но стеснялись спросить
 category: technologies
-tags: [copypaste, education, development]
+tags: [education, development]
 ---
+
+# Все, что вы хотели знать об обработке веб-запросов, но стеснялись спросить
 
 Источник: [habr.com](https://habr.com/ru/post/432630/)
 

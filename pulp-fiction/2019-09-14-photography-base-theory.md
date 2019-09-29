@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Фотография. Основы экспозиции
 category: pulp fiction
-tags: [copypaste, technologies, photography]
+tags: [technologies, photography]
 ---
+
+# Фотография. Основы экспозиции
 
 Источник: [fototips.ru](https://fototips.ru/praktika/osnovy-ekspozicii/)
 

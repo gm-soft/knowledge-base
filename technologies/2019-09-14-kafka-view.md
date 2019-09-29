@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Kafka и микросервисы. Обзор
 category: technologies
 tags: [development, technologies]
 ---
+
+# Kafka и микросервисы. Обзор
 
 Источник: [habr.com](https://habr.com/ru/company/avito/blog/465315/)
 

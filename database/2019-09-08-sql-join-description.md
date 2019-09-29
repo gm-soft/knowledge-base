@@ -1,9 +1,9 @@
 ---
-layout: post
-title: SQL JOIN description
 category: database
-tags: [education, development, copypaste]
+tags: [education, development]
 ---
+
+# SQL JOIN description
 
 Источник: [sql-join.com](http://www.sql-join.com/sql-join-types)
 

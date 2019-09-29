@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Code review по-человечески
-subtitle: О том, как сделать процесс кодревью приятным для всех
 category: pulp fiction
-tags: [copypaste, code review]
+tags: [code review]
 ---
 
-## Источники:
+# Code review по-человечески
+
+Источники:
 * [Перевод. Часть 1](https://habr.com/ru/post/340550/.com[perevod]-code-review-po-chelovecheski-cha/) ([Оригинальная статья](https://mtlynch.io/human-code-reviews-1/))
 * [Перевод. Часть 2](https://habr.com/ru/post/342244/.com[perevod]-code-review-po-chelovecheski-cha/) ([Оригинальная статья](https://mtlynch.io/human-code-reviews-2/))
 

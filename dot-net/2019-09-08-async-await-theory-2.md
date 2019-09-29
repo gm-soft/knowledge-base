@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Асинхронный рассинхрон; антипаттерны в работе с async/await в .NET
 category: .net
 tags: [.net, development, theory, async]
 ---
+
+# Асинхронный рассинхрон; антипаттерны в работе с async/await в .NET
 
 Источник: [Habr.com](https://habr.com/ru/company/dodopizzaio/blog/435666/)
 

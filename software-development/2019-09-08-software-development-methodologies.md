@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Software development methodologies
 category: software development
 tags: [processes]
 ---
+
+# Software development methodologies
 
 # Agile
 Agile. A methodology that focuses on adoptive development. Main principles are:

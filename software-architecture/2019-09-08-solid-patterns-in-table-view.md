@@ -1,9 +1,9 @@
 ---
-layout: post
-title: SOLID паттерны в виде таблицы
 category: software architecture
 tags: [design patterns, development]
 ---
+
+# SOLID паттерны. Блок С. Теплякова
 
 Источник: блог Сергея Теплякова.
 

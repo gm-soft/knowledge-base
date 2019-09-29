@@ -1,10 +1,9 @@
 ---
-layout: post
-title: Психология дизайна
-subtitle: О проектировании и некоторых законах дизайна
 category: pulp fiction
-tags: [copypaste, design]
+tags: [design]
 ---
+
+# Психология дизайна
 
 [Оригинальная статья](https://alistapart.com/article/psychology-of-design#section7)
 

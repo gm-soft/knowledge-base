@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Что такое канбан и чем он полезен?
 category: management
-tags: [copypaste, project management, processes]
+tags: [project management, processes]
 ---
+
+# Что такое канбан и чем он полезен?
 
 Система канбан начала свой путь в 1950-х годах на производственных линиях корпорации Toyota, после чего перекочевала в офисы и стала важным инструментом для проектных менеджеров.
 

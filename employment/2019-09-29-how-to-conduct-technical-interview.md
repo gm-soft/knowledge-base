@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Как проводить технические собеседования. С. Тепляков
 category: employment
-tags: [interview, employment, copypaste]
+tags: [interview, employment]
 ---
+
+# Как проводить технические собеседования. С. Тепляков
 
 Источник: [Блог Сергея Теплякова](http://sergeyteplyakov.blogspot.com/2014/06/technical-interview.html)
 

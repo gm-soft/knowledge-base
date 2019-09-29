@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Что такое AppDomain
 category: .net
 tags: [.net, development, theory]
 ---
+
+# Что такое AppDomain
 
 Ответ одного чела на StackOverflow ([https://stackoverflow.com/a/12233139](https://stackoverflow.com/a/12233139))
 

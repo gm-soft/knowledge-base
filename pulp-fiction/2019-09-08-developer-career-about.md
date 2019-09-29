@@ -1,10 +1,9 @@
 ---
-layout: post
-title: О чем молчат Лиды. начало карьеры разработчика
-subtitle: О том, как построить карьеру разработчика
 category: pulp fiction
-tags: [copypaste, processes, career]
+tags: [processes, career]
 ---
+
+# О чем молчат Лиды. начало карьеры разработчика
 
 Источник: [Habr.com](https://habr.com/ru/post/424887/)
 

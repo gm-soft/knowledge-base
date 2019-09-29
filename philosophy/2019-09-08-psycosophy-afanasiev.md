@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Психософия Афанасьева - описание типов личности
 category: philosophy
-tags: [copypaste, education, psychology]
+tags: [education, psychology]
 ---
 
-Источник: (Форум)[http://sociomodel.ru/psychosofy.htm]
+# Психософия Афанасьева - описание типов личности
+
+Источник: [Форум](http://sociomodel.ru/psychosofy.htm)
 
 ---
 

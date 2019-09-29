@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Рецепт полезного код-ревью от разработчика из Яндекса
 category: pulp fiction
-tags: [copypaste, code review, development]
+tags: [code review, development]
 ---
+
+# Рецепт полезного код-ревью от разработчика из Яндекса
 
 Источник: [Habr.com](https://habr.com/ru/company/yandex/blog/422143/)
 
