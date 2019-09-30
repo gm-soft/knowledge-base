@@ -1,4 +1,4 @@
-# О сложности. Блог С. Телпякова
+# О сложности. Блог С. Теплякова
 
 Источник: [http://sergeyteplyakov.blogspot.com/2015/02/blog-post.html](http://sergeyteplyakov.blogspot.com/2015/02/blog-post.html)
 
