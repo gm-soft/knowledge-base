@@ -24,6 +24,7 @@
 
 ### Здоровье
 - [О вреде холодных напитков](/health/2019-09-19-harm-of-cold-drinks.md)
+- [Экстраверт и интроверт: дофамин и ацетилхолин](/health/2019-10-05-introvert-extrovert-biology.md)
 
 ### Human resources
 - [Про рынок IT в России по-честному](/HR-namespace/2019-09-08-about-it-in-russia-and-cis.md)
