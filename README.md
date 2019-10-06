@@ -18,6 +18,7 @@
 - [Как и почему именно так работает GC](/dot-net/2019-09-08-how-gc-works-and-why.md)
 - [System.IO.Pipelines, высокоэффективный IO в .NET](/dot-net/2019-09-08-IO.Pipelines.md)
 - [Подводные камни HttpClient в .NET](/dot-net/2019-09-08-work-with-http-client-in-.net.md)
+- [Expression trees for dummies](/dot-net/2019-10-06-what-is-expression-tree.md)
 
 ### Все, что связано с наймом
 - [Как проводить технические собеседования. С. Тепляков](/employment/2019-09-29-how-to-conduct-technical-interview.md)
