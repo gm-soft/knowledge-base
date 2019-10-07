@@ -57,7 +57,7 @@
 ### Программная архитектура
 - [DI Паттерны. Service Locator. Блог С. Теплякова](/software-architecture/2019-09-08-di-patterns-service-locator.md)
 - [Ключевые концепции DDD. Блог С. Теплякова](/software-architecture/2019-09-08-key-concepts-of-ddd.md)
-- [SOLID паттерны. Блок С. Теплякова ](/software-architecture/2019-09-08-solid-patterns-in-table-view.md)
+- [SOLID паттерны. Блог С. Теплякова ](/software-architecture/2019-09-08-solid-patterns-in-table-view.md)
 - [О сложности. Блог С. Телпякова](/software-architecture/2019-09-30-about-software-complexity.md)
 
 ### Разработка программ
