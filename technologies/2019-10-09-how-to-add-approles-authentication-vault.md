@@ -17,11 +17,11 @@ Then you type name. Let's leave it 'as is'.
 
 Then you should generate RoleId and SecretId for your application. This values are some kind of login and password for application which allow the application to get an access token. We may use any string. I will generate GUIDs using [Online GUID Generator](https://www.guidgenerator.com/).
 
-![guid generator page](/technologies/key-vault-assets/guid generator.PNG)
+![guid generator page](/technologies/key-vault-assets/guid_generator.PNG)
 
 Then we write this two GUIDs as RoleId and SecretId in our application.
 
-![add_app_role 2](/technologies/key-vault-assets/app settings.png)
+![add_app_role 2](/technologies/key-vault-assets/app_settings.png)
 
 We use this values to get Vault token for our application.
 
@@ -160,7 +160,7 @@ Hashicorp Vault generates secret-id automatically by command `vault write -f aut
 
 Policy is a file which declares what does your application enable to do: reading, writing or removing secrets. We are going to give readonly permissions. As far as you noticed above, we have added a policy reference via command `vault write auth/approle/role/<app_name> policies=<policy_name>`, and now we have to add this policy.
 
-![Create new policy](/technologies/key-vault-assets/create policy.PNG)
+![Create new policy](/technologies/key-vault-assets/create_policy.PNG)
 
 Then we just type a name of the policy and also type permissions in a field. For example, we want to add readonly permission to all secrets stored in `awesome_namespace` namespace.
 
@@ -177,13 +177,13 @@ You may find another one example in official documentation [here](https://learn.
 
 First you should enable new secret engine. We are going to create 'Version 1' of the engine, because it is simpler than V2. You may find additional information in documentation [here](https://learn.hashicorp.com/vault/getting-started/secrets-engines).
 
-![enable secret engine](/technologies/key-vault-assets/enable secret engine.PNG)
+![enable secret engine](/technologies/key-vault-assets/enable_secret_engine.PNG)
 
 ![awesome_name_of_secret_engine](/technologies/key-vault-assets/awesome_name_of_secret_engine.PNG)
 
 Then we should add secret. Here we create a storage file with name `connection_strings` inside `awesome_namespace` namespace.
 
-![created secret](/technologies/key-vault-assets/created secret.PNG)
+![created secret](/technologies/key-vault-assets/created_secret.PNG)
 
 Now, we may point our application to this secret connection string.
 
