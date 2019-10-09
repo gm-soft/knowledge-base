@@ -5,11 +5,13 @@
 ## Содержание
 
 ### Базы данных
+
 - [clustered and non-clustered indices](/database/2019-09-08-clustered-and-non-clustered-indices.md)
 - [SQL join description](/database/2019-09-08-sql-join-description.md)
 - [6 нормальных форм баз данных](/database/2019-09-15-six-normalize-forms-of-databases.md)
 
 ### .NET
+
 - [AppDomain в .NET](/dot-net/2019-09-08-app-domain.md)
 - [ASP.NET MVC Selenium IISExpress](/dot-net/2019-09-08-asp.net-mvc-selenium-iisexpress.md)
 - [Асинхронный рассинхрон; антипаттерны в работе с async/await в .NET](/dot-net/2019-09-08-async-await-theory-2.md)
@@ -22,26 +24,32 @@
 - [Зачем нам нужен GetHashCode()](/dot-net/2019-10-06-why-do-we-need-in-gethashcode.md)
 
 ### Все, что связано с наймом
+
 - [Как проводить технические собеседования. С. Тепляков](/employment/2019-09-29-how-to-conduct-technical-interview.md)
 
 ### Здоровье
+
 - [О вреде холодных напитков](/health/2019-09-19-harm-of-cold-drinks.md)
 - [Экстраверт и интроверт: дофамин и ацетилхолин](/health/2019-10-05-introvert-extrovert-biology.md)
 
 ### Human resources
+
 - [Про рынок IT в России по-честному](/HR-namespace/2019-09-08-about-it-in-russia-and-cis.md)
 - [Управление интровертами интровертом или опыт руководства техническими командами](/HR-namespace/2019-09-08-leading-of-introverts-by-introvert.md)
 
 ### Управление и менеджмент
+
 - [Software developer skill matrix](/management/2019-09-08-developer-skill-matrix.md)
 - [Теория мотивации Макклелланда](/management/2019-09-08-mccleland-motivation-theory.md)
 - [Что такое канбан и чем он полезен?](/management/2019-09-08-what-is-kanban.md)
 
 ### Философия / психология
+
 - [Система 5S, основанная на философии кайдзен](/philosophy/2019-09-08-5-s-system.md)
 - [Психософия Афанасьева - описание типов личности](/philosophy/2019-09-08-psycosophy-afanasiev.md)
 
 ### "Криминальное" чтиво
+
 - [Вольный опус про найм, собеседования и трэш на рынке IT-кадров](/pulp-fiction/2019-09-08-about-it-interviews-and-hr-interactions.md)
 - [Семь «абсолютных истин» джуниора, от которых пришлось отучиваться](/pulp-fiction/2019-09-08-absolute-truths-unlearned-as-junior-developer.md)
 - [Рецепт полезного код-ревью от разработчика из Яндекса](/pulp-fiction/2019-09-08-code-review-receipts-by-developer-from-yandex.md)
@@ -55,12 +63,14 @@
 - [Фотография. Основы экспозиции](/pulp-fiction/2019-09-14-photography-base-theory.md)
 
 ### Программная архитектура
+
 - [DI Паттерны. Service Locator. Блог С. Теплякова](/software-architecture/2019-09-08-di-patterns-service-locator.md)
 - [Ключевые концепции DDD. Блог С. Теплякова](/software-architecture/2019-09-08-key-concepts-of-ddd.md)
-- [SOLID паттерны. Блог С. Теплякова ](/software-architecture/2019-09-08-solid-patterns-in-table-view.md)
+- [SOLID паттерны. Блог С. Теплякова](/software-architecture/2019-09-08-solid-patterns-in-table-view.md)
 - [О сложности. Блог С. Телпякова](/software-architecture/2019-09-30-about-software-complexity.md)
 
 ### Разработка программ
+
 - [Четыре правила интуитивного UX](/software-development/2019-09-08-4-rules-for-good-ux.md)
 - [What is CI / CD / CD](/software-development/2019-09-08-ci-cd-cd.md)
 - [Definition of Done](/software-development/2019-09-08-definition-of-done-ready.md)
@@ -72,6 +82,9 @@
 - [Why do browsers match CSS selectors from right to left?](/software-development/2019-09-20-why-browsers-read-css-right-to-left.md)
 
 ### Технологии
+
 - [Все, что вы хотели знать об обработке веб-запросов, но стеснялись спросить](/technologies/2019-09-08-what-you-want-to-know-about-web-request-processing.md)
 - [Kafka и микросервисы. Обзор](/technologies/2019-09-14-kafka-view.md)
 - [Using Kafka with Kerberos authentication from .NET Core](/technologies/2019-09-20-using-kafka-with-kerberos-in-net-core.md)
+- [Adding an application in Hashicorp Vault](/technologies/2019-10-09-how-to-add-approles-authentication-vault.md)
+
