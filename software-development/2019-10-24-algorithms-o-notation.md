@@ -10,7 +10,7 @@ tags: [algorithms]
 | O(1) | constant | The best. |
 | O(log | logarithmic | Pretty great. |
 | O(n) | linear | Good performance. |
-| O(n |  | linearithmic | Decent performance. |
+| O(n log n) |  | linearithmic | Decent performance. |
 | O(n^2) | quadratic | Slow. |
 | O(n^3) | cubic | Poor performance. |
 | O(2^n) | exponential| Very poor performance. |
