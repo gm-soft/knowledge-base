@@ -8,7 +8,7 @@ tags: [algorithms]
 | Big-O | Name | Description |
 |--------|-------------|-------------|
 | O(1) | constant | The best. |
-| O(log | logarithmic | Pretty great. |
+| O(log n) | logarithmic | Pretty great. |
 | O(n) | linear | Good performance. |
 | O(n log n) |  | linearithmic | Decent performance. |
 | O(n^2) | quadratic | Slow. |
