@@ -80,6 +80,7 @@
 - [What is Extreme Programming (XP)?](/software-development/2019-09-08-what-is-extreme-programming.md)
 - [What Is Readable Code?](/software-development/2019-09-08-what-is-readable-code.md)
 - [Why do browsers match CSS selectors from right to left?](/software-development/2019-09-20-why-browsers-read-css-right-to-left.md)
+- [О-нотация сложности алгоритмов](/software-development/2019-10-24-algorithms-o-notation.md)
 
 ### Технологии
 
