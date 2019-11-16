@@ -38,6 +38,7 @@
 
 - [О вреде холодных напитков](/health/2019-09-19-harm-of-cold-drinks.md)
 - [Экстраверт и интроверт: дофамин и ацетилхолин](/health/2019-10-05-introvert-extrovert-biology.md)
+- ["Выгореть. Восстановиться. Начать сначала." Комментарий пользователя](/health/2019-11-16-forming-healthy-mind-with-work-balace.md)
 
 ### Human resources
 
