@@ -4,6 +4,10 @@
 
 ## Содержание
 
+### frontend
+
+- [Integrating Google Analytics With Angular 2+](/frontend/2019-11-16-how-to-add-google-analytics-into-spa.md)
+
 ### Базы данных
 
 - [clustered and non-clustered indices](/database/2019-09-08-clustered-and-non-clustered-indices.md)
@@ -93,3 +97,19 @@
 - [Using Kafka with Kerberos authentication from .NET Core](/technologies/2019-09-20-using-kafka-with-kerberos-in-net-core.md)
 - [Adding an application in Hashicorp Vault](/technologies/2019-10-09-how-to-add-approles-authentication-vault.md)
 
+---
+
+## Полезные ссылки и материалы
+
+### Библиотеки
+
+- [Workflow Core — движок бизнес-процессов для .Net Core](https://github.com/avanpostid/workflow-core)
+
+### Статьи
+
+Work in progress
+
+### Блоги
+
+- [Code Blog. Шванов Вадим, разработчик EPAM](https://www.youtube.com/user/admshwan/videos)
+- [#SimpleCode](https://www.youtube.com/user/admshwan/videos)

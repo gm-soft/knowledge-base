@@ -1,3 +1,8 @@
+---
+category: .net
+tags: [.net, async, copypaste]
+---
+
 ***In progress***
 
 # Отличие между конкурентностью, параллелизмом и многопоточностю (Differences between concurrency, parallelism, and multithreading)
