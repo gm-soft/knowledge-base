@@ -201,6 +201,36 @@ We use `vault://` prefix to mark that this string is a vault value. We are going
 
 If you have to store certificates in Vault, you may follow next way: you may just store base64 string representation of the file and create the file during your application is starting.
 
+## Useful commands
+
+1. How to create a new approle
+
+```
+
+vault write auth/approle/role/eds_background_check role_id=<GUID_for_role_id>
+vault write auth/approle/role/eds_background_check policies=<policy_name>
+vault write auth/approle/role/eds_background_check/custom-secret-id secret_id=<secret_id_value>
+vault read auth/approle/role/eds_background_check
+
+```
+
+2. Set a custom value for secret-id:
+
+```
+
+vault write auth/approle/role/develop_eds_api/custom-secret-id secret_id=<secret_id_value>
+
+```
+
+3. How to add a new user to a namespace with policies
+
+```
+
+vault write bss-dev/epm-xxxx/auth/ldap/users/<username> policies=<policy_name>
+
+```
+
+
 ## Useful links
 
 - [Static Secrets: Key/Value Secret Engine](https://learn.hashicorp.com/vault/secrets-management/sm-static-secrets)
