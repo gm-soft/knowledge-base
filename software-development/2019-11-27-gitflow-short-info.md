@@ -3,7 +3,7 @@ category: software development
 tags: [git, gitflow, processes, tutorial]
 ---
 
-# WIP: What is GitFlow and how to work with it.
+# What is GitFlow and how to work with it.
 
 ![gitflow](/software-development/2019-11-27-gitflow-short-info/gitflow.png)
 
