@@ -95,6 +95,7 @@
 - [Why do browsers match CSS selectors from right to left?](/software-development/2019-09-20-why-browsers-read-css-right-to-left.md)
 - [О-нотация сложности алгоритмов](/software-development/2019-10-24-algorithms-o-notation.md)
 - [Практики построения безопасного приложения](/software-development/2019-11-24-how-to-build-safe-software.md)
+- [What is GitFlow and how to work with it.](/software-development/2019-11-27-gitflow-short-info.md)
 
 ## Технологии
 
