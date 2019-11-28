@@ -9,6 +9,8 @@ tags: [git, gitflow, processes, tutorial]
 
 More detailed information you may find [here](https://habr.com/ru/post/106912/).
 
+Also you may read this [article](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+
 
 ## Features
 
