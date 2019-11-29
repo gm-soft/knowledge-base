@@ -50,6 +50,7 @@
 - [Software developer skill matrix](/management/2019-09-08-developer-skill-matrix.md)
 - [Теория мотивации Макклелланда](/management/2019-09-08-mccleland-motivation-theory.md)
 - [Что такое канбан и чем он полезен?](/management/2019-09-08-what-is-kanban.md)
+- [Agile in IT: 7 техник оценки задач](/management/2019-11-29-ways-of-estimations.md)
 
 ## Философия / психология
 
