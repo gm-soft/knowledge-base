@@ -82,6 +82,7 @@
 - [Ключевые концепции DDD. Блог С. Теплякова](/software-architecture/2019-09-08-key-concepts-of-ddd.md)
 - [SOLID паттерны. Блог С. Теплякова](/software-architecture/2019-09-08-solid-patterns-in-table-view.md)
 - [О сложности. Блог С. Телпякова](/software-architecture/2019-09-30-about-software-complexity.md)
+- [Идеальная архитектура. Блог С. Теплякова](/software-architecture/2019-11-29-ideal-architecture-teplyakov.md)
 - [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию](/software-architecture/2019-11-28-jwt-token-about.md)
 - [Пять простых шагов для понимания JSON Web Tokens (JWT)](/software-architecture/2019-11-28-5-steps-to-understand-jwt.md)
 
