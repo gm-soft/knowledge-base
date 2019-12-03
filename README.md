@@ -107,3 +107,7 @@
 - [Kafka и микросервисы. Обзор](/technologies/2019-09-14-kafka-view.md)
 - [Using Kafka with Kerberos authentication from .NET Core](/technologies/2019-09-20-using-kafka-with-kerberos-in-net-core.md)
 - [Adding an application in Hashicorp Vault](/technologies/2019-10-09-how-to-add-approles-authentication-vault.md)
+
+## Полезные штуки и вещи
+
+- [Как создать сервер базы данных в Docker](/useful-features/2019-12-03-how-to-create-database-in-docker.md)
