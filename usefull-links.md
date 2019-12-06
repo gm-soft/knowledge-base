@@ -12,6 +12,7 @@ Work in progress
 
 - [How to work with Code First in EF6. By Microsoft](https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/migrations/teams)
 - [Введение в Expressions в языке C#](https://sonyks2007.blogspot.com/2014/07/expressions-c.html)
+- [Google Tag Manager: неочевидные и полезные настройки триггеров](https://habr.com/ru/company/netologyru/blog/475608/)
 
 ## Блоги
 

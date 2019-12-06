@@ -44,6 +44,7 @@
 - [Про рынок IT в России по-честному](/HR-namespace/2019-09-08-about-it-in-russia-and-cis.md)
 - [Управление интровертами интровертом или опыт руководства техническими командами](/HR-namespace/2019-09-08-leading-of-introverts-by-introvert.md)
 - [Мало опыта — много собеседований: как тимлидам проводить интервью](/HR-namespace/2019-11-24-how-to-make-interviews-for-teamleaders.md)
+- [Денежная мотивация — oh really?](/HR-namespace/2019-12-06-money-as-a-motivation.md)
 
 ## Управление и менеджмент
 
