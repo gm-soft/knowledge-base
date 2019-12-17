@@ -45,6 +45,7 @@
 - [Управление интровертами интровертом или опыт руководства техническими командами](/HR-namespace/2019-09-08-leading-of-introverts-by-introvert.md)
 - [Мало опыта — много собеседований: как тимлидам проводить интервью](/HR-namespace/2019-11-24-how-to-make-interviews-for-teamleaders.md)
 - [Денежная мотивация — oh really?](/HR-namespace/2019-12-06-money-as-a-motivation.md)
+- [Шесть рецептов для начинающего тимлида: как всё успевать и развивать команду. Дмитрий Ли](/HR-namespace/2019-12-17-six-receipts-for-teamleaders.md)
 
 ## Управление и менеджмент
 
