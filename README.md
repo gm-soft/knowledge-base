@@ -112,6 +112,7 @@
 - [Using Kafka with Kerberos authentication from .NET Core](/technologies/2019-09-20-using-kafka-with-kerberos-in-net-core.md)
 - [Adding an application in Hashicorp Vault](/technologies/2019-10-09-how-to-add-approles-authentication-vault.md)
 - [Apple Wallet. Что это такое и как интегрировать в него свою карту](/technologies/2019-12-20-how-to-integrate-your-card-into-apple-wallet.md)
+- [Continuously Integrating Angular with Azure DevOps](/technologies/2019-12-20-ci-angular-with-azure-devops.md)
 
 ## Полезные штуки и вещи
 
