@@ -14,6 +14,7 @@ Work in progress
 - [Введение в Expressions в языке C#](https://sonyks2007.blogspot.com/2014/07/expressions-c.html)
 - [Google Tag Manager: неочевидные и полезные настройки триггеров](https://habr.com/ru/company/netologyru/blog/475608/)
 - [Карта навыков и модель развития тимлидов - tlroadmap](https://github.com/tlbootcamp/tlroadmap)
+- [Testing Angular with Jasmine and Karma](https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1)
 
 ## Блоги
 
