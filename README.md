@@ -46,6 +46,7 @@
 - [Мало опыта — много собеседований: как тимлидам проводить интервью](/HR-namespace/2019-11-24-how-to-make-interviews-for-teamleaders.md)
 - [Денежная мотивация — oh really?](/HR-namespace/2019-12-06-money-as-a-motivation.md)
 - [Шесть рецептов для начинающего тимлида: как всё успевать и развивать команду. Дмитрий Ли](/HR-namespace/2019-12-17-six-receipts-for-teamleaders.md)
+- [What Great .NET Developers Ought To Know (More .NET Interview Questions)](/HR-namespace/2019-12-20-what-dotnet-developers-have-to-know.md)
 
 ## Управление и менеджмент
 
