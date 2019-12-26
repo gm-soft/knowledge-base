@@ -15,6 +15,7 @@ Work in progress
 - [Google Tag Manager: неочевидные и полезные настройки триггеров](https://habr.com/ru/company/netologyru/blog/475608/)
 - [Карта навыков и модель развития тимлидов - tlroadmap](https://github.com/tlbootcamp/tlroadmap)
 - [Testing Angular with Jasmine and Karma](https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1)
+- [Как устроено тестирование фронтенда в Яндекс.Маркете и почему мы отказываемся от еженедельных релизов](https://habr.com/ru/company/yandex/blog/478862/)
 
 ## Блоги
 
