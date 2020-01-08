@@ -6,7 +6,12 @@
 
 ## Статьи
 
-Work in progress
+- [Мотивация, делегирование и автоматизация: рецепт создания суперкоманды - habr.com](https://habr.com/ru/company/oleg-bunin/blog/456512/)
+- [ConfigureAwait: часто задаваемые вопросы - habr.com](https://habr.com/ru/post/482354/)
+- [ASP.NET Core: Создание справочных страниц веб-API ASP.NET с помощью Swagger - habr.com](https://habr.com/ru/company/microsoft/blog/325872/)
+- [Angular/NGRX — ясное и чёткое введение](https://medium.com/ngx/angular-ngrx-%D1%8F%D1%81%D0%BD%D0%BE%D0%B5-%D0%B8-%D1%87%D1%91%D1%82%D0%BA%D0%BE%D0%B5-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-bdf1c97f44b2)
+- [OAuth 2.0 простым и понятным языком - habr.com](https://habr.com/ru/company/mailru/blog/115163/)
+- [Функциональное программирование — это не то, что нам рассказывают - habr.com](https://habr.com/ru/post/479238/)
 
 ## How to
 
