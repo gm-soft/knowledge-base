@@ -45,6 +45,8 @@
 - [Управление интровертами интровертом или опыт руководства техническими командами](/HR-namespace/2019-09-08-leading-of-introverts-by-introvert.md)
 - [Мало опыта — много собеседований: как тимлидам проводить интервью](/HR-namespace/2019-11-24-how-to-make-interviews-for-teamleaders.md)
 - [Денежная мотивация — oh really?](/HR-namespace/2019-12-06-money-as-a-motivation.md)
+- [Шесть рецептов для начинающего тимлида: как всё успевать и развивать команду. Дмитрий Ли](/HR-namespace/2019-12-17-six-receipts-for-teamleaders.md)
+- [What Great .NET Developers Ought To Know (More .NET Interview Questions)](/HR-namespace/2019-12-20-what-dotnet-developers-have-to-know.md)
 
 ## Управление и менеджмент
 
@@ -87,6 +89,7 @@
 - [Идеальная архитектура. Блог С. Теплякова](/software-architecture/2019-11-29-ideal-architecture-teplyakov.md)
 - [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию](/software-architecture/2019-11-28-jwt-token-about.md)
 - [Пять простых шагов для понимания JSON Web Tokens (JWT)](/software-architecture/2019-11-28-5-steps-to-understand-jwt.md)
+- [Архитектура/паттерны организации кода Node.js приложений](/software-architecture/2019-12-17-nodejs-architecture-about.md)
 
 ## Разработка программ
 
@@ -109,6 +112,8 @@
 - [Kafka и микросервисы. Обзор](/technologies/2019-09-14-kafka-view.md)
 - [Using Kafka with Kerberos authentication from .NET Core](/technologies/2019-09-20-using-kafka-with-kerberos-in-net-core.md)
 - [Adding an application in Hashicorp Vault](/technologies/2019-10-09-how-to-add-approles-authentication-vault.md)
+- [Apple Wallet. Что это такое и как интегрировать в него свою карту](/technologies/2019-12-20-how-to-integrate-your-card-into-apple-wallet.md)
+- [Continuously Integrating Angular with Azure DevOps](/technologies/2019-12-20-ci-angular-with-azure-devops.md)
 
 ## Полезные штуки и вещи
 
