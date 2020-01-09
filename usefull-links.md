@@ -12,6 +12,8 @@
 - [Angular/NGRX — ясное и чёткое введение](https://medium.com/ngx/angular-ngrx-%D1%8F%D1%81%D0%BD%D0%BE%D0%B5-%D0%B8-%D1%87%D1%91%D1%82%D0%BA%D0%BE%D0%B5-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-bdf1c97f44b2)
 - [OAuth 2.0 простым и понятным языком - habr.com](https://habr.com/ru/company/mailru/blog/115163/)
 - [Функциональное программирование — это не то, что нам рассказывают - habr.com](https://habr.com/ru/post/479238/)
+- [Использование Identity Server 4 в Net Core 3.0](https://habr.com/ru/post/461433/)
+- [Аутентификация asp .net core через IdentityServer4](https://habr.com/ru/post/426289/)
 
 ## How to
 
