@@ -28,6 +28,7 @@
 - [My two cents on the yield keyword in C#](/dot-net/2019-10-27-yield-return.md)
 - [Dissecting the async methods in C#](/dot-net/2019-10-27-async-await-methods-teplyakov.md)
 - [Отличие между конкурентностью, параллелизмом и многопоточностю](/dot-net/2019-11-06-asynchronous-programming-epm-theory.md)
+- [ConfigureAwait: часто задаваемые вопросы](/dot-net/2020-01-12-configure-await-about.md)
 
 ## Все, что связано с наймом
 
