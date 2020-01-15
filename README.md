@@ -5,6 +5,7 @@
 ## frontend
 
 - [Integrating Google Analytics With Angular 2+](/frontend/2019-11-16-how-to-add-google-analytics-into-spa.md)
+- [SPA Authentication using OpenID Connect, Angular CLI and oidc-client](/frontend/2020-01-15-spa-auth-oidc.md)
 
 ## Базы данных
 
