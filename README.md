@@ -82,6 +82,7 @@
 - [Психология дизайна](/pulp-fiction/2019-09-08-the-psychology-of-design.md)
 - [Философия программирования](/pulp-fiction/2019-09-09-phylosophy-of-programming.md)
 - [Фотография. Основы экспозиции](/pulp-fiction/2019-09-14-photography-base-theory.md)
+- [Чем опасна токсоплазма](/pulp-fiction/2020-01-17-toxoplasma-about.md)
 
 ## Программная архитектура
 
