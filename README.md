@@ -83,6 +83,8 @@
 - [Философия программирования](/pulp-fiction/2019-09-09-phylosophy-of-programming.md)
 - [Фотография. Основы экспозиции](/pulp-fiction/2019-09-14-photography-base-theory.md)
 - [Чем опасна токсоплазма](/pulp-fiction/2020-01-17-toxoplasma-about.md)
+- [Как работает трансплантация](/pulp-fiction/2020-01-17-how-transplantaion-works.md)
+- [5 фактов о трансплантации](/pulp-fiction/2020-01-17-5-facts-about-transplantation.md)
 
 ## Программная архитектура
 
