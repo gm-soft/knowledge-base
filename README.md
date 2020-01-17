@@ -96,6 +96,7 @@
 - [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию](/software-architecture/2019-11-28-jwt-token-about.md)
 - [Пять простых шагов для понимания JSON Web Tokens (JWT)](/software-architecture/2019-11-28-5-steps-to-understand-jwt.md)
 - [Архитектура/паттерны организации кода Node.js приложений](/software-architecture/2019-12-17-nodejs-architecture-about.md)
+- [REST vs SOAP](/software-architecture/2020-01-17-rest-vs-soap.md)
 
 ## Разработка программ
 
