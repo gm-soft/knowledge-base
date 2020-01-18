@@ -14,6 +14,9 @@
 - [Функциональное программирование — это не то, что нам рассказывают - habr.com](https://habr.com/ru/post/479238/)
 - [Использование Identity Server 4 в Net Core 3.0](https://habr.com/ru/post/461433/)
 - [Аутентификация asp .net core через IdentityServer4](https://habr.com/ru/post/426289/)
+- [Сергей Тепляков. Dispose pattern](http://sergeyteplyakov.blogspot.com/2011/09/dispose-pattern.html)
+- [Сергей Тепляков. О сборке мусора и достижимости объектов](http://sergeyteplyakov.blogspot.com/2013/08/blog-post_27.html)
+- [Сергей Тепляков. Принцип самурая](http://sergeyteplyakov.blogspot.com/2011/09/blog-post_13.html)
 
 ## How to
 
