@@ -17,6 +17,7 @@
 - [Сергей Тепляков. Dispose pattern](http://sergeyteplyakov.blogspot.com/2011/09/dispose-pattern.html)
 - [Сергей Тепляков. О сборке мусора и достижимости объектов](http://sergeyteplyakov.blogspot.com/2013/08/blog-post_27.html)
 - [Сергей Тепляков. Принцип самурая](http://sergeyteplyakov.blogspot.com/2011/09/blog-post_13.html)
+- [Егор Бугаенко. Мотивация команды: мифы и реальность [EN]](https://www.yegor256.com/2015/03/02/team-morale-myths-and-reality.html)
 
 ## How to
 
@@ -26,6 +27,10 @@
 - [Карта навыков и модель развития тимлидов - tlroadmap](https://github.com/tlbootcamp/tlroadmap)
 - [Testing Angular with Jasmine and Karma](https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1)
 - [Как устроено тестирование фронтенда в Яндекс.Маркете и почему мы отказываемся от еженедельных релизов](https://habr.com/ru/company/yandex/blog/478862/)
+- [Angular 8 - Basic HTTP Authentication Tutorial & Example](https://jasonwatmore.com/post/2019/06/26/angular-8-basic-http-authentication-tutorial-example)
+- [Angular 8 - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial)
+- [Angular + Node.js on AWS - How to Deploy a MEAN Stack App to Amazon EC2](https://jasonwatmore.com/post/2019/12/02/angular-nodejs-on-aws-how-to-deploy-a-mean-stack-app-to-amazon-ec2)
+- [Angular 8 - Simple Pagination Example](https://jasonwatmore.com/post/2019/06/18/angular-8-simple-pagination-example)
 
 ## Блоги
 
