@@ -19,6 +19,7 @@
 - [Сергей Тепляков. Принцип самурая](http://sergeyteplyakov.blogspot.com/2011/09/blog-post_13.html)
 - [Егор Бугаенко. Мотивация команды: мифы и реальность [EN]](https://www.yegor256.com/2015/03/02/team-morale-myths-and-reality.html)
 - [Резервирование констант и Git hooks на C#](https://habr.com/ru/post/485218/) и [репозиторий](https://github.com/yakimovim/csharp-git-hooks) к статье
+- [Как выстроить процессы и перестать издеваться над командой](https://habr.com/ru/post/473298/)
 
 ## How to
 
