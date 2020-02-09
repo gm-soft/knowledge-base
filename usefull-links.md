@@ -20,6 +20,19 @@
 - [Егор Бугаенко. Мотивация команды: мифы и реальность [EN]](https://www.yegor256.com/2015/03/02/team-morale-myths-and-reality.html)
 - [Резервирование констант и Git hooks на C#](https://habr.com/ru/post/485218/) и [репозиторий](https://github.com/yakimovim/csharp-git-hooks) к статье
 - [Как выстроить процессы и перестать издеваться над командой](https://habr.com/ru/post/473298/)
+- [10 tips for reviewing code you don’t like](https://developers.redhat.com/blog/2019/07/08/10-tips-for-reviewing-code-you-dont-like/)
+- [You Should Refuse to Develop What You Don’t Understand](https://www.fluentcpp.com/2019/07/09/you-should-refuse-to-develop-what-you-dont-understand/)
+- [Отучаемся от токсичных практик на код-ревью](https://habr.com/ru/post/453968/)
+- [Управление конфликтами в команде – эквилибристика или жизненная необходимость?](https://habr.com/ru/company/parallels/blog/461043/)
+- [48 answers on StackOverflow to the most popular Angular questions](https://www.freecodecamp.org/news/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0/)
+- [Интерфейсы: как сообщать пользователю, если «Упс, что-то пошло не так»](https://habr.com/ru/company/jugru/blog/353668/)
+- [О другом подходе к устройству на работу](https://habr.com/ru/post/285362/)
+- [.NET. Сoncurrent collections за 10 минут](https://habr.com/ru/post/473352/)
+- [Фантастик-Elasticsearch. Как мы «укротили» умный поиск по документам в .NET](https://habr.com/ru/company/digdes/blog/351002/)
+- [CQRS. Факты и заблуждения](https://habr.com/ru/post/347908/)
+- [DataTables Server-side Processing in Laravel](https://shareurcodes.com/blog/laravel%20datatables%20server%20side%20processing)
+- [Docker + Laravel = ❤](https://habr.com/ru/post/425101/)
+- [Как уязвимость в Яндекс.Станции вдохновила меня на проект: Музыкальная передача данных](https://habr.com/ru/post/470293/) и [репозиторий](https://github.com/krupnikas/octave)
 
 ## How to
 
@@ -38,3 +51,4 @@
 
 - [Code Blog. Шванов Вадим, разработчик EPAM](https://www.youtube.com/user/admshwan/videos)
 - [#SimpleCode](https://www.youtube.com/user/admshwan/videos)
+- [Refactoring Guru. Паттерны проектирования и немного о рефакторинге](https://refactoring.guru/ru)
