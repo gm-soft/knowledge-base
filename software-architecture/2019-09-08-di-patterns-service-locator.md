@@ -1,8 +1,3 @@
----
-category: software architecture
-tags: [.net, development, design patterns]
----
-
 # DI Паттерны. Service Locator. Блог С. Теплякова
 
 - Источник [Блог Сергея Теплякова](http://sergeyteplyakov.blogspot.com/2013/03/di-service-locator.html) 
@@ -18,8 +13,6 @@ tags: [.net, development, design patterns]
 ### Описание
 
 Суть паттерна Сервис Локатор сводится к тому, что вместо создания конкретных объектов («сервисов») напрямую с помощью ключевого слова **new**, мы будем использовать специальный «фабричный» объект, который будет отвечать за создание, а точнее «нахождение» всех сервисов.
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/962589c8-78a4-4217-9c81-933934b57678/image_thumb255B4255D.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAT73L2G45P3LWE2VG%2F20190817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20190817T161354Z&X-Amz-Expires=86400&X-Amz-Security-Token=AgoJb3JpZ2luX2VjEMX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCfAlc6LPSGAut5Gv59Kp%2BCG%2BVWtkay7XscXq%2FJkqwnuwIgYUUu0nTL8VGxkOrQ7lD%2BbWc%2BULrp%2BzQsXZKG8%2FH6Q20q2gMIXhAAGgwyNzQ1NjcxNDkzNzAiDAnGuTac4rt5wlj%2BWSq3A5vA1TWdJpPEsbU8C5qG1bxH6Wtfcv%2BauovN0aGnM5m8Rm%2BmfJh42kCew15cuXs8920YfFNn%2BUjxHYHy2BFz2oQcqB%2BuBrsIOmoSimxZIAMzP30z49WoUqIdELza9zrFngsvhVla5%2BsOzjuiAA6p2i%2FMYLXFf9nH29obcc61mRFrpqdoTHceeGZFD1TUrSUDxhZLYA6kFXwl0l8ar1FHW3SwXi6LP6P%2FaQekLScEpjqYx%2BeFqA4t%2BpOf4cGRXJhD%2FqozfnelKdReMEIHqSt7LU8o3iUnAGHvGWOZMdoFto5EYlhERrZT4RSaOF5sLPFeFjeTX2SGXbXTnBDGBiv9fbn6GRvF8bEGWpndY4XATMVb7FZRezpy9EqnotGu6gxlcmO88RwZYOO888CHvW86yQf0XQvKLNt2VoOju3e%2FDVgbFzs3XR7nGPatGDITD%2Fkekl76X4LqqNQEuujHYi47iSfWVqScSV2VLgBjwSOkUzJIuw68Ec8fQyt1V%2B2VbpN0qpB8ZCWWC0GWRtIIL%2Bpd78Vlivhx8y3wR8rS5TrlJHeoWVwjYDW5WyowUqvcOT9NNLQ1bjNWOUYw0%2BPf6gU6tAFVfy1IyMtzcw2bm1klq6gicc4Ss9DQz0dxdp7yfhqcNFvv9xL4ymQzZenHwrwK1f9TiK1OEskaWPUS3kLw7WJrBABCyC37M70EFbdKh4xcbGJDslwLyiRspt8phKDhTp%2F4RYLKFvIAhTPlLm6qRltNaN2NUjx1P11gdOyLGxH1DQm4RfypNxIc%2FrzFM0R6lBencqh%2BXLMtNRMsFOXKbs8%2Fio9n4F67GpkDbq9DXZWhAODTsgI%3D&X-Amz-Signature=d5ac9c2a2663a499fd46df7aa2cda7f0e7fd625815feb2dd1c97e84840d64318&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22image_thumb255B4255D.png%22)
 
 ```csharp
 

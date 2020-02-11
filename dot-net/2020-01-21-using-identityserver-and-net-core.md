@@ -1,8 +1,3 @@
----
-category: .net
-tags: [.net, angular, spa, identity server, tutorial]
----
-
 # Использование Identity Server 4 в Net Core 3.0
 
 Источник: [Habr.com](https://habr.com/ru/post/461433/)

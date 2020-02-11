@@ -1,8 +1,3 @@
----
-category: useful features
-tags: [docker, database, postgres]
----
-
 # Как создать сервер базы данных в Docker
 
 Шаг 1. Создать файл `docker-compose.yml`

@@ -1,11 +1,6 @@
----
-category: pulp fiction
-tags: [health, oyla, oyla.xyz]
----
-
 # 5 фактов о трансплантации
 
-Источник: https://oyla.xyz/article/5-faktov-o-transplantacii
+Источник: [https://oyla.xyz](https://oyla.xyz/article/5-faktov-o-transplantacii)
 
 ---
 

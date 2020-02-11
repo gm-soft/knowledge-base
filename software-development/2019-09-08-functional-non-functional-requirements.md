@@ -1,8 +1,3 @@
----
-category: software development
-tags: [processes]
----
-
 # Functional and Non-functional requirement
 
 [ReQtest](https://reqtest.com/requirements-blog/understanding-the-difference-between-functional-and-non-functional-requirements/)

@@ -1,8 +1,3 @@
----
-category: frontend
-tags: [angular, alert, tutorial]
----
-
 # Angular 8. Alert (Toaster) Notifications - https://jasonwatmore.com
 
 Source: [https://jasonwatmore.com](https://jasonwatmore.com/post/2019/07/05/angular-8-alert-toaster-notifications)

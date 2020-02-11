@@ -1,8 +1,3 @@
----
-category: .net
-tags: [.net, angular, spa, identity server]
----
-
 # User Authentication and Identity with Angular, Asp.Net Core and IdentityServer
 
 Source: [https://fullstackmark.com/](https://fullstackmark.com/post/21/user-authentication-and-identity-with-angular-aspnet-core-and-identityserver)

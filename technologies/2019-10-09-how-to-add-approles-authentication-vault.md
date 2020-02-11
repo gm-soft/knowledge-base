@@ -1,8 +1,3 @@
----
-category: technologies
-tags: [technologies, hashicorp vault, secrets, .net]
----
-
 # Adding an application in Hashicorp Vault
 
 ## Enabling AppRole authentication method

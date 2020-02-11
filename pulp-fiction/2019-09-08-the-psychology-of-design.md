@@ -1,8 +1,3 @@
----
-category: pulp fiction
-tags: [design]
----
-
 # Психология дизайна
 
 [Оригинальная статья](https://alistapart.com/article/psychology-of-design#section7)

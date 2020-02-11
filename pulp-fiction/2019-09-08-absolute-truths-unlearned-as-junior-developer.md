@@ -1,8 +1,3 @@
----
-category: pulp fiction
-tags: [development]
----
-
 # Семь «абсолютных истин» джуниора, от которых пришлось отучиваться
 
 Скопировано с [habr.com](https://habr.com/ru/post/455459/)

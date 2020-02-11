@@ -1,8 +1,3 @@
----
-category: software architecture
-tags: [design patterns, development]
----
-
 # SOLID паттерны. Блог С. Теплякова
 
 Источник: блог Сергея Теплякова.

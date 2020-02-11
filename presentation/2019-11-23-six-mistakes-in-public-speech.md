@@ -1,8 +1,3 @@
----
-category: presentation
-tags: [speech, best practices, copypaste]
----
-
 # 6 ошибок публичного выступления на конференциях
 
 Источник: [Блог Parallels на habr.com](https://habr.com/ru/company/parallels/blog/476976/)

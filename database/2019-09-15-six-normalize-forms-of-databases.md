@@ -1,8 +1,3 @@
----
-category: database
-tags: [education, development]
----
-
 # Нормализация отношений. Шесть нормальных форм
 
 Автор: Сивков Сергей [@DevilAngel](https://habr.com/users/DevilAngel/)

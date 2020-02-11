@@ -1,8 +1,3 @@
----
-category: health
-tags: [health]
----
-
 # Экстраверт и интроверт: дофамин и ацетилхолин
 
 Источник: [ai-news.ru](http://ai-news.ru/2018/10/ekstravert_i_introvert_dofamin_i_acetilholin.html)

@@ -1,8 +1,3 @@
----
-category: management
-tags: [agile, management]
----
-
 # Шорты про Scrum - И. Белокаменцев
 
 Источник - [Блог И. Белокаменцева - habr.com](https://habr.com/ru/post/475754/)

@@ -1,8 +1,3 @@
----
-category: database
-tags: [education, development, copypaste]
----
-
 # Основные приемы нормализации базы данных by Microsoft
 
 Истояник: [support.microsoft.com](https://support.microsoft.com/ru-kz/help/283878/description-of-the-database-normalization-basics)

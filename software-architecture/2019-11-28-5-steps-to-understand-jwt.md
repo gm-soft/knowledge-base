@@ -1,8 +1,3 @@
----
-category: software architecture
-tags: [jwt, tutorial]
----
-
 # Пять простых шагов для понимания JSON Web Tokens (JWT)
 
 Источник: [Блог borisyuzhakov на habr.com](https://habr.com/ru/post/340146/)

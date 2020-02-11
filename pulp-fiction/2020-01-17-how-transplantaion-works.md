@@ -1,11 +1,6 @@
----
-category: pulp fiction
-tags: [health, oyla, oyla.xyz]
----
-
 # Как работает трансплантация. Издательство Oyla.xyz
 
-Источник: https://oyla.xyz/article/kak-rabotaet-transplantacia
+Источник: [https://oyla.xyz](https://oyla.xyz/article/kak-rabotaet-transplantacia)
 
 ---
 

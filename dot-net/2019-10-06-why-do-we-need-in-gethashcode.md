@@ -1,8 +1,3 @@
----
-category: .net
-tags: [.net]
----
-
 # Зачем нам нужен GetHashCode()
 
 Источники:

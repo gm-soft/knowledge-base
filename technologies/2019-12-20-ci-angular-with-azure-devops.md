@@ -1,8 +1,3 @@
----
-category: technologies
-tags: [technologies, angular, azure, devops, cicd]
----
-
 # Continuously Integrating Angular with Azure DevOps
 
 Source:

@@ -1,8 +1,3 @@
----
-category: philosophy
-tags: [love, psychology]
----
-
 # Пять языков любви
 
 Источник: [psychologies.ru](http://www.psychologies.ru/standpoint/pyat-yazyikov-lyubvi/)

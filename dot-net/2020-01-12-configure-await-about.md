@@ -1,8 +1,3 @@
----
-category: .net
-tags: [.net, async, synchronization context, copypaste]
----
-
 # ConfigureAwait: часто задаваемые вопросы
 
 ## Источник

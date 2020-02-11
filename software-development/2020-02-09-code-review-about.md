@@ -1,8 +1,3 @@
----
-category: software development
-tags: [codereview, code review, teplyakov]
----
-
 # О рецензировании кода | С. Тепляков
 
 Источник: [блог Сергея Теплякова](http://sergeyteplyakov.blogspot.com/2016/05/about-code-review.html)

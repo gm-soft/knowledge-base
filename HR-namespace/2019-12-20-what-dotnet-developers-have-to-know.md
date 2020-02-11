@@ -1,8 +1,3 @@
----
-category: human resources
-tags: [teamlead, management, interview]
----
-
 # What Great .NET Developers Ought To Know (More .NET Interview Questions)
 
 ## Everyone who writes code

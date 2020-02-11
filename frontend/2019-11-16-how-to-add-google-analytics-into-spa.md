@@ -1,8 +1,3 @@
----
-category: frontend
-tags: [angular, google analytics, tutorial, copypaste]
----
-
 # Integrating Google Analytics With Angular 2+
 
 Source: [https://scotch.io/](https://scotch.io/tutorials/integrating-google-analytics-with-angular-2)

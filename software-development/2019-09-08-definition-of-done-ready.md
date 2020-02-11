@@ -1,8 +1,3 @@
----
-category: software development
-tags: [processes]
----
-
 # Definition of Done
 
 **Definition of Done** - A list of criteria which must be met before a product increment is considered "done". 

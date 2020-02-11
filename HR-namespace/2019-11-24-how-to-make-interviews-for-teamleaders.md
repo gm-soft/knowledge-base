@@ -1,8 +1,3 @@
----
-category: human resources
-tags: [career, management, interview, copypaste]
----
-
 # Мало опыта — много собеседований: как тимлидам проводить интервью
 
 Источник: [Статья katerinadhr на Habr.com](https://habr.com/ru/post/471796/)

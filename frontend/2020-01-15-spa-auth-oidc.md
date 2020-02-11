@@ -1,8 +1,3 @@
----
-category: frontend
-tags: [angular, oidc, tutorial]
----
-
 # SPA Authentication using OpenID Connect, Angular CLI and oidc-client
 
 Source: [https://www.scottbrady91.com/](https://www.scottbrady91.com/Angular/SPA-Authentiction-using-OpenID-Connect-Angular-CLI-and-oidc-client)

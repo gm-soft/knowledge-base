@@ -1,8 +1,3 @@
----
-category: software development
-tags: [processes]
----
-
 # What is Extreme Programming (XP)?
 
 # Definition

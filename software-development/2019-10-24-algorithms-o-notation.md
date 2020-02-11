@@ -1,8 +1,3 @@
----
-category: software development
-tags: [algorithms]
----
-
 # О-нотация сложности алгоритмов
 
 | Big-O | Name | Description |

@@ -1,8 +1,3 @@
----
-category: management
-tags: [project management, estimation, agile]
----
-
 # Agile in IT: 7 техник оценки задач
 
 Источник: [doitsmartly.ru](https://doitsmartly.ru/all-articles/management/99-agile/115-agile-estimation-techniques.html)

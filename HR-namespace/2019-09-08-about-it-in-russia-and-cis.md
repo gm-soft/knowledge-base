@@ -1,8 +1,3 @@
----
-category: human resources
-tags: [career, hr]
----
-
 # Про рынок IT в России по-честному
 
 Источник: [habr.com](https://habr.com/post/413819/)

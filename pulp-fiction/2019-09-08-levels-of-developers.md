@@ -1,8 +1,3 @@
----
-category: pulp fiction
-tags: [career, hr]
----
-
 # Junior, Middle, Senior — в чем разница и куда дальше?
 
 Источник: [dataart.ru](https://dataart.ru/news/junior-middle-senior-v-chem-raznifa-i-kuda-dalshe/)

@@ -1,8 +1,3 @@
----
-category: software architecture
-tags: [clean architecture, node js]
----
-
 # Архитектура/паттерны организации кода Node.js приложений
 
 Источник: [Gist](https://gist.github.com/zmts/6ac57301e2e8e8e9e059e9c087732c05) by [Sasha Zmts](https://gist.github.com/zmts)

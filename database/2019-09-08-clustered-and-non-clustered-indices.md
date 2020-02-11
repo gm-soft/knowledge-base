@@ -1,8 +1,3 @@
----
-category: database
-tags: [education, development]
----
-
 # Clustered and non-clustered indices
 
 With the clustered index the rows are stored physically on the disk in the same order as the index. Therefore, there can be only one clustered index.

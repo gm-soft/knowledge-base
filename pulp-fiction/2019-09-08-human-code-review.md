@@ -1,8 +1,3 @@
----
-category: pulp fiction
-tags: [code review]
----
-
 # Code review по-человечески
 
 Источники:

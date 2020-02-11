@@ -1,8 +1,3 @@
----
-category: pulp fiction
-tags: [code review, development]
----
-
 # Рецепт полезного код-ревью от разработчика из Яндекса
 
 Источник: [Habr.com](https://habr.com/ru/company/yandex/blog/422143/)

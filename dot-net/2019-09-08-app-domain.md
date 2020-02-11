@@ -1,7 +1,3 @@
----
-category: .net
-tags: [.net, development, theory]
----
 
 # Что такое AppDomain
 

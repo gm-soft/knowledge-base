@@ -1,8 +1,3 @@
----
-category: software development
-tags: [processes]
----
-
 # Software development methodologies
 
 # Agile

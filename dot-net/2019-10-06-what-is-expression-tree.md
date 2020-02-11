@@ -1,8 +1,3 @@
----
-category: .net
-tags: [.net, stackoverflow, copypaste]
----
-
 # Expression trees for dummies. StackOverflow
 
 Источник - [ответ на StackOverflow](https://stackoverflow.com/a/20766203), который сам является пересказом [статьи](https://blogs.msdn.microsoft.com/charlie/2008/01/31/expression-tree-basics/)

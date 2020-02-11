@@ -1,8 +1,3 @@
----
-category: human resources
-tags: [teamlead, management]
----
-
 # Шесть рецептов для начинающего тимлида: как всё успевать и развивать команду. Дмитрий Ли
 
 - Источник: [habr.com](https://habr.com/ru/company/badoo/blog/478722/)

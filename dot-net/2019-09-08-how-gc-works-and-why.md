@@ -1,8 +1,3 @@
----
-category: .net
-tags: [.net, development, theory]
----
-
 # Как и почему именно так работает GC
 
 Источник: [habr](https://habr.com/ru/company/clrium/blog/464169/)

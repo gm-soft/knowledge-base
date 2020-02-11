@@ -1,8 +1,3 @@
----
-category: software architecture
-tags: [architecture, rest, soap]
----
-
 # REST vs SOAP
 
 Источник: [habr.com](https://habr.com/ru/post/131343/)

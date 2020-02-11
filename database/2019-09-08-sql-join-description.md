@@ -1,8 +1,3 @@
----
-category: database
-tags: [education, development]
----
-
 # SQL JOIN description
 
 Источник: [sql-join.com](http://www.sql-join.com/sql-join-types)

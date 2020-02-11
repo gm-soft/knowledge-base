@@ -1,8 +1,3 @@
----
-category: .net
-tags: [.net, async, copypaste]
----
-
 # My two cents on the yield keyword in C#
 
 Source: [infoworld.com](https://www.infoworld.com/article/3122592/my-two-cents-on-the-yield-keyword-in-c.html).

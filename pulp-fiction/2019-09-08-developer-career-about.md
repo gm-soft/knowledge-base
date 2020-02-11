@@ -1,8 +1,3 @@
----
-category: pulp fiction
-tags: [processes, career]
----
-
 # О чем молчат Лиды. начало карьеры разработчика
 
 Источник: [Habr.com](https://habr.com/ru/post/424887/)

@@ -1,8 +1,3 @@
----
-category: pulp fiction
-tags: [technologies, photography]
----
-
 # Фотография. Основы экспозиции
 
 Источник: [fototips.ru](https://fototips.ru/praktika/osnovy-ekspozicii/)

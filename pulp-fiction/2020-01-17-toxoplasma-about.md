@@ -1,11 +1,6 @@
----
-category: pulp fiction
-tags: [health, oyla, oyla.xyz]
----
-
 # Чем опасна токсоплазма. Издательство Oyla.xyz
 
-Источник: https://oyla.xyz/article/cem-opasna-toksoplazma
+Источник: [https://oyla.xyz](https://oyla.xyz/article/cem-opasna-toksoplazma)
 
 Эта статья была опубликована в журнале OYLA №5(33)
 

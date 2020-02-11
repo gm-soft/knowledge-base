@@ -1,8 +1,3 @@
----
-category: .net
-tags: [.net, async, copypaste]
----
-
 # Dissecting the async methods in C#
 
 Soure: [devblogs.microsoft.com](https://devblogs.microsoft.com/premier-developer/dissecting-the-async-methods-in-c/)

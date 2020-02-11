@@ -1,8 +1,3 @@
----
-category: software architecture
-tags: [clean architecture, teplyakov]
----
-
 # Идеальная архитектура. Блог С. Теплякова
 
 Источник: [Блог С. Теплякова](http://sergeyteplyakov.blogspot.com/2011/11/blog-post_23.html)

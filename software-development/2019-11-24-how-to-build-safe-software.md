@@ -1,8 +1,3 @@
----
-category: software development
-tags: [safe, errors, validation]
----
-
 # Практики построения безопасного приложения
 
 Источник: [Статья "Программист-защитник сильнее энтропии" от FunCorp на Habr.com](https://habr.com/ru/company/funcorp/blog/472922/)

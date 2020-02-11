@@ -1,8 +1,3 @@
----
-category: human resources
-tags: [career, management]
----
-
 # Управление интровертами интровертом или опыт руководства техническими командами
 
 Источник: [habr.com](https://habr.com/ru/post/351316/)

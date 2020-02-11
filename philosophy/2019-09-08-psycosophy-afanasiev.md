@@ -1,8 +1,3 @@
----
-category: philosophy
-tags: [education, psychology]
----
-
 # Психософия Афанасьева - описание типов личности
 
 Источник: [Форум](http://sociomodel.ru/psychosofy.htm)

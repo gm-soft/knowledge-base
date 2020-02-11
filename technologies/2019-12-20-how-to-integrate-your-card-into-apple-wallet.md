@@ -1,8 +1,3 @@
----
-category: technologies
-tags: [technologies, apple, apple wallet, integration]
----
-
 # Apple Wallet. Что это такое и как интегрировать в него свою карту
 
 Источник: [habr.com](https://habr.com/ru/company/agima/blog/428437/)

@@ -1,8 +1,3 @@
----
-category: software architecture
-tags: [.net, development, theory]
----
-
 # Ключевые концепции DDD
 
 Источник: Блог Сергея Теплякова.

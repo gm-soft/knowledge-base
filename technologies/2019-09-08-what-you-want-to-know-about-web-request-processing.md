@@ -1,8 +1,3 @@
----
-category: technologies
-tags: [education, development]
----
-
 # Все, что вы хотели знать об обработке веб-запросов, но стеснялись спросить
 
 Источник: [habr.com](https://habr.com/ru/post/432630/)

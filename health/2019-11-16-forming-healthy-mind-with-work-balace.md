@@ -1,8 +1,3 @@
----
-category: health
-tags: [psychology, copypaste]
----
-
 # "Выгореть. Восстановиться. Начать сначала." Комментарий пользователя
 
 ## Introduction

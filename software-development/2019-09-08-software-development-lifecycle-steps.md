@@ -1,8 +1,3 @@
----
-category: software development
-tags: [processes]
----
-
 # Software Development Lifecycle Steps
 
 [softwaretestinghelp.com](https://www.softwaretestinghelp.com/software-development-life-cycle-sdlc/)
