@@ -33,6 +33,12 @@
 - [DataTables Server-side Processing in Laravel](https://shareurcodes.com/blog/laravel%20datatables%20server%20side%20processing)
 - [Docker + Laravel = ❤](https://habr.com/ru/post/425101/)
 - [Как уязвимость в Яндекс.Станции вдохновила меня на проект: Музыкальная передача данных](https://habr.com/ru/post/470293/) и [репозиторий](https://github.com/krupnikas/octave)
+- [Егор Бугаенко. Прокачай свое CV [EN]](https://www.yegor256.com/2016/03/08/pimp-up-your-resume.html)
+- [Деревья выражений в C# на примере нахождения производной (Expression Tree Visitor vs Pattern matching)](https://habr.com/ru/post/486972/)
+- [JIRA: правила своевременного приготовления вкусного ПО. TLDR 2: управление требованиями](https://habr.com/ru/company/lanit/blog/486754/)
+- [Управление конфликтами в команде – эквилибристика или жизненная необходимость?](https://habr.com/ru/company/parallels/blog/461043/)
+- [10 tips for reviewing code you don’t like](https://developers.redhat.com/blog/2019/07/08/10-tips-for-reviewing-code-you-dont-like/)
+- [You Should Refuse to Develop What You Don’t Understand](https://www.fluentcpp.com/2019/07/09/you-should-refuse-to-develop-what-you-dont-understand/)
 
 ## How to
 
