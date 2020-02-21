@@ -38,6 +38,7 @@
 ## Все, что связано с наймом
 
 - [Как проводить технические собеседования. С. Тепляков](/employment/2019-09-29-how-to-conduct-technical-interview.md)
+- [Вопросы компании при собеседованиях](/employment/2020-02-21-what-should-i-ask-during-hr-interview.md)
 
 ## Здоровье
 
@@ -53,6 +54,8 @@
 - [Денежная мотивация — oh really?](/HR-namespace/2019-12-06-money-as-a-motivation.md)
 - [Шесть рецептов для начинающего тимлида: как всё успевать и развивать команду. Дмитрий Ли](/HR-namespace/2019-12-17-six-receipts-for-teamleaders.md)
 - [What Great .NET Developers Ought To Know (More .NET Interview Questions)](/HR-namespace/2019-12-20-what-dotnet-developers-have-to-know.md)
+- [Про рынок ИТ в России по-честному](/HR-namespace/2020-02-21-about-hr-market-in-russia.md)
+- [Собеседования и HR. Подкаст](/HR-namespace/2020-02-21-hr-podcast-related-questions.md)
 
 ## Управление и менеджмент
 
