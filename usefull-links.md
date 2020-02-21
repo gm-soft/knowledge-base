@@ -39,6 +39,8 @@
 - [Управление конфликтами в команде – эквилибристика или жизненная необходимость?](https://habr.com/ru/company/parallels/blog/461043/)
 - [10 tips for reviewing code you don’t like](https://developers.redhat.com/blog/2019/07/08/10-tips-for-reviewing-code-you-dont-like/)
 - [You Should Refuse to Develop What You Don’t Understand](https://www.fluentcpp.com/2019/07/09/you-should-refuse-to-develop-what-you-dont-understand/)
+- 7 правил создания красивых интерфейсов: [Часть 1](https://habr.com/ru/company/iloveip/blog/261857/) и [Часть 2](https://habr.com/ru/company/iloveip/blog/263061/)
+- [Цвета в web-дизайне: Выбор правильного сочетания для вашего сайта](https://habr.com/ru/post/105250/)
 
 ## How to
 
