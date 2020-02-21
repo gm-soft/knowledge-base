@@ -58,3 +58,4 @@
 - [Code Blog. Шванов Вадим, разработчик EPAM](https://www.youtube.com/user/admshwan/videos)
 - [#SimpleCode](https://www.youtube.com/user/admshwan/videos)
 - [Refactoring Guru. Паттерны проектирования и немного о рефакторинге](https://refactoring.guru/ru)
+- [Teamlead roadmap - репозиторий статей](https://github.com/tlbootcamp/tlroadmap)
