@@ -64,6 +64,7 @@
 - [Что такое канбан и чем он полезен?](/management/2019-09-08-what-is-kanban.md)
 - [Agile in IT: 7 техник оценки задач](/management/2019-11-29-ways-of-estimations.md)
 - [Шорты про Scrum - И. Белокаменцев](/management/2019-12-07-short-stories-about-scrum.md)
+- [Как давать фидбек сотрудникам](/management/2020-03-09-how-to-give-feedback-to-employees.md)
 
 ## Философия / психология
 
@@ -132,3 +133,8 @@
 ## Полезные штуки и вещи
 
 - [Как создать сервер базы данных в Docker](/useful-features/2019-12-03-how-to-create-database-in-docker.md)
+
+## Интервью и собеседования
+
+- [[EPAM] Вопросы для собеседования](/interviews/2020-03-09-epam-interview-questions.md)
+- [[EPAM] Проведение TI, шпаргалка](/interviews/2020-03-09-epam-interview-conducting-structure.md)
