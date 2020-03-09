@@ -54,6 +54,7 @@
 - [Angular 8 - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial)
 - [Angular + Node.js on AWS - How to Deploy a MEAN Stack App to Amazon EC2](https://jasonwatmore.com/post/2019/12/02/angular-nodejs-on-aws-how-to-deploy-a-mean-stack-app-to-amazon-ec2)
 - [Angular 8 - Simple Pagination Example](https://jasonwatmore.com/post/2019/06/18/angular-8-simple-pagination-example)
+- [Sign in with an External Login Provider in an Angular Application Served by ASP.NET Core](https://www.blinkingcaret.com/2018/10/10/sign-in-with-an-external-login-provider-in-an-angular-application-served-by-asp-net-core/)
 
 ## Блоги
 
