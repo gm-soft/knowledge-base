@@ -41,6 +41,8 @@
 - [You Should Refuse to Develop What You Don’t Understand](https://www.fluentcpp.com/2019/07/09/you-should-refuse-to-develop-what-you-dont-understand/)
 - 7 правил создания красивых интерфейсов: [Часть 1](https://habr.com/ru/company/iloveip/blog/261857/) и [Часть 2](https://habr.com/ru/company/iloveip/blog/263061/)
 - [Цвета в web-дизайне: Выбор правильного сочетания для вашего сайта](https://habr.com/ru/post/105250/)
+- [Планирование потоков в Windows. Часть 1 из 4](https://habr.com/ru/company/clrium/blog/488260/)
+- [Как устроен поиск. HH.ru](https://habr.com/ru/company/hh/blog/413261/)
 
 ## How to
 
