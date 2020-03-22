@@ -65,6 +65,7 @@
 - [Agile in IT: 7 техник оценки задач](/management/2019-11-29-ways-of-estimations.md)
 - [Шорты про Scrum - И. Белокаменцев](/management/2019-12-07-short-stories-about-scrum.md)
 - [Как давать фидбек сотрудникам](/management/2020-03-09-how-to-give-feedback-to-employees.md)
+- [Как делегировать в условиях удаленной работы — руководство для тимлида и не только](/management/2020-03-22-how-to-delegate-during-remote-work.md)
 
 ## Философия / психология
 
