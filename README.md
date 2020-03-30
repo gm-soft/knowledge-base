@@ -135,6 +135,7 @@
 ## Полезные штуки и вещи
 
 - [Как создать сервер базы данных в Docker](/useful-features/2019-12-03-how-to-create-database-in-docker.md)
+- [Поиск в Google – скрытые возможности](/useful-features/2020-03-30-how-to-google-as-a-pro.md)
 
 ## Интервью и собеседования
 
