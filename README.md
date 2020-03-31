@@ -122,6 +122,7 @@
 - [What is GitFlow and how to work with it.](/software-development/2019-11-27-gitflow-short-info.md)
 - [О рецензировании кода | С. Тепляков](/software-development/2020-02-09-code-review-about.md)
 - [Continious integration principles](/software-development/2020-03-12-continious-integration-principles.md)
+- [Теория цвета, контраст](/software-development/2020-03-31-color-theory.md)
 
 ## Технологии
 
