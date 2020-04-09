@@ -43,6 +43,7 @@
 - [Цвета в web-дизайне: Выбор правильного сочетания для вашего сайта](https://habr.com/ru/post/105250/)
 - [Планирование потоков в Windows. Часть 1 из 4](https://habr.com/ru/company/clrium/blog/488260/)
 - [Как устроен поиск. HH.ru](https://habr.com/ru/company/hh/blog/413261/)
+- [Как украсть Macbook. Статья о системе безопасности Apple и о том, как сберечь хотя бы данные](https://habr.com/ru/company/ruvds/blog/495124/)
 
 ## How to
 
