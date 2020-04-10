@@ -46,6 +46,7 @@
 - [Как устроен поиск. HH.ru](https://habr.com/ru/company/hh/blog/413261/)
 - [Асинхронный код в Startup ASP.NET Core: 4 способа обхода GetAwaiter().GetResult()](https://habr.com/ru/company/dodopizzadev/blog/496300/)
 - [Какие вопросы задают Junior iOS разработчику на первых собеседованиях](https://habr.com/ru/post/493830/)
+- [Как украсть Macbook. Статья о системе безопасности Apple и о том, как сберечь хотя бы данные](https://habr.com/ru/company/ruvds/blog/495124/)
 
 ## How to
 

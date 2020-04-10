@@ -122,6 +122,7 @@
 - [What is GitFlow and how to work with it.](/software-development/2019-11-27-gitflow-short-info.md)
 - [О рецензировании кода | С. Тепляков](/software-development/2020-02-09-code-review-about.md)
 - [Continious integration principles](/software-development/2020-03-12-continious-integration-principles.md)
+- [Теория цвета, контраст](/software-development/2020-03-31-color-theory.md)
 
 ## Технологии
 
@@ -135,6 +136,8 @@
 ## Полезные штуки и вещи
 
 - [Как создать сервер базы данных в Docker](/useful-features/2019-12-03-how-to-create-database-in-docker.md)
+- [Поиск в Google – скрытые возможности](/useful-features/2020-03-30-how-to-google-as-a-pro.md)
+- [Как включить аналог Spotlight на Windows 10](/useful-features/2020-04-05-how-to-turn-on-spotlight-on-windows.md)
 
 ## Интервью и собеседования
 
