@@ -3,6 +3,7 @@
 ## Библиотеки
 
 - [Workflow Core — движок бизнес-процессов для .Net Core](https://github.com/avanpostid/workflow-core)
+- [Ant Design. Альтернатива Bootstrap](https://ant.design)
 
 ## Статьи
 
@@ -43,6 +44,8 @@
 - [Цвета в web-дизайне: Выбор правильного сочетания для вашего сайта](https://habr.com/ru/post/105250/)
 - [Планирование потоков в Windows. Часть 1 из 4](https://habr.com/ru/company/clrium/blog/488260/)
 - [Как устроен поиск. HH.ru](https://habr.com/ru/company/hh/blog/413261/)
+- [Асинхронный код в Startup ASP.NET Core: 4 способа обхода GetAwaiter().GetResult()](https://habr.com/ru/company/dodopizzadev/blog/496300/)
+- [Какие вопросы задают Junior iOS разработчику на первых собеседованиях](https://habr.com/ru/post/493830/)
 
 ## How to
 
