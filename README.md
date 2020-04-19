@@ -14,6 +14,7 @@
 - [SQL join description](/database/2019-09-08-sql-join-description.md)
 - [6 нормальных форм баз данных](/database/2019-09-15-six-normalize-forms-of-databases.md)
 - [Основные приемы нормализации базы данных by Microsoft](/database/2019-11-22-how-to-normalize-database.md)
+- [Уровни изоляции транзакций](/database/2020-04-19-transaction-isolation.md)
 
 ## .NET
 
