@@ -15,6 +15,7 @@
 - [6 нормальных форм баз данных](/database/2019-09-15-six-normalize-forms-of-databases.md)
 - [Основные приемы нормализации базы данных by Microsoft](/database/2019-11-22-how-to-normalize-database.md)
 - [Уровни изоляции транзакций](/database/2020-04-19-transaction-isolation.md)
+- [14 вопросов об индексах в SQL Server, которые вы стеснялись задать](/database/2020-04-21-faq-about-sql-indicies.md)
 
 ## .NET
 
