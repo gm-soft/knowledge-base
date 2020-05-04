@@ -7,6 +7,7 @@
 - [Integrating Google Analytics With Angular 2+](/frontend/2019-11-16-how-to-add-google-analytics-into-spa.md)
 - [SPA Authentication using OpenID Connect, Angular CLI and oidc-client](/frontend/2020-01-15-spa-auth-oidc.md)
 - [Angular 8. Alert (Toaster) Notifications](/frontend/2020-02-08-how-to-create-alert-service-in-angular-app.md)
+- [Знаменитые дизайнеры vs научные исследования про читаемость шрифтов](/frontend/2020-05-04-fonts-in-web-development.md)
 
 ## Базы данных
 
