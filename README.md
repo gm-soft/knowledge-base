@@ -148,3 +148,7 @@
 - [[EPAM] Вопросы для собеседования](/interviews/2020-03-09-epam-interview-questions.md)
 - [[EPAM] Проведение TI, шпаргалка](/interviews/2020-03-09-epam-interview-conducting-structure.md)
 - [Feedback template. EPAM](/interviews/2020-03-12-feedback-template.md)
+
+## Стиль жизни
+
+- [15 вещей, которые я понял к 35 годам. Самопознание и развитие личности](/lifestyle/2020-05-06-what-i-understand-for-my-35-year-age.md)
