@@ -1,7 +1,8 @@
 # Async programming in .NET: Best practices
 
 - Текст: [habr.com](https://habr.com/ru/company/jugru/blog/491236/)
-- Видео: [Youtube.com](https://www.youtube.com/watch?v=wM-h6P1BJRk)
+- Видео: [Дмитрий Иванов — Async programming in .NET: Best practices](https://www.youtube.com/watch?v=wM-h6P1BJRk)
+- Дополнительное видео, которое стоит посмотреть: [Иван Дашкевич — Yield и async-await: как оно все устроено внутри и как этим воспользоваться](https://www.youtube.com/watch?v=TFsT8bgs024)
 
 ---
 
