@@ -37,6 +37,7 @@
 - [User Authentication and Identity with Angular, Asp.Net Core and IdentityServer](/dot-net/2020-01-14-identity-server-and-spa.md)
 - [Использование Identity Server 4 в Net Core 3.0](/dot-net/2020-01-21-using-identityserver-and-net-core.md)
 - [Некоторые аспекты работы с Dictionary при разработке нагруженных приложений](/dot-net/2020-02-21-disctionary-in-dotnet.md)
+- [Async programming in .NET: Best practices](/dot-net/2020-05-06-async-await-about.md)
 
 ## Все, что связано с наймом
 
