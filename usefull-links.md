@@ -62,6 +62,11 @@
 - [Angular + Node.js on AWS - How to Deploy a MEAN Stack App to Amazon EC2](https://jasonwatmore.com/post/2019/12/02/angular-nodejs-on-aws-how-to-deploy-a-mean-stack-app-to-amazon-ec2)
 - [Angular 8 - Simple Pagination Example](https://jasonwatmore.com/post/2019/06/18/angular-8-simple-pagination-example)
 - [Sign in with an External Login Provider in an Angular Application Served by ASP.NET Core](https://www.blinkingcaret.com/2018/10/10/sign-in-with-an-external-login-provider-in-an-angular-application-served-by-asp-net-core/)
+- [Переносим Angular проект на ESLint, с Prettier, Husky и lint-staged](https://habr.com/ru/post/501830/)
+- [7 опасных ошибок, которые легко совершить в С#/.NET](https://habr.com/ru/company/otus/blog/501796/)
+- [Curated colors in context](https://www.happyhues.co) - сайт, который позволяет выбрать палитру цвета для собственного веб-портала или приложения.
+- [Лучшие практики повышения производительности в C#](https://habr.com/ru/company/otus/blog/502498/)
+- [Введение в Webpack для новичков](https://medium.com/nuances-of-programming/введение-в-webpack-для-новичков-6cafbf562386)
 
 ## Блоги
 
