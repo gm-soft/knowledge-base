@@ -67,6 +67,8 @@
 - [Curated colors in context](https://www.happyhues.co) - сайт, который позволяет выбрать палитру цвета для собственного веб-портала или приложения.
 - [Лучшие практики повышения производительности в C#](https://habr.com/ru/company/otus/blog/502498/)
 - [Введение в Webpack для новичков](https://medium.com/nuances-of-programming/введение-в-webpack-для-новичков-6cafbf562386)
+- [Что такое хорошо и что такое плохо. Карьера разработчика глазами его руководителя
+](https://habr.com/ru/company/haulmont/blog/504050/)
 
 ## Блоги
 
