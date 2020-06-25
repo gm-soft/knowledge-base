@@ -77,6 +77,7 @@
 - [Система 5S, основанная на философии кайдзен](/philosophy/2019-09-08-5-s-system.md)
 - [Психософия Афанасьева - описание типов личности](/philosophy/2019-09-08-psycosophy-afanasiev.md)
 - [Пять языков любви](/philosophy/2019-11-09-five-languages-of-love.md)
+- [Главный навык программиста. Сергей Тепляков](philosophy/2020-06-25-the-first-skill-of-developer.md)
 
 ## Искусство выступления
 
