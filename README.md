@@ -129,6 +129,7 @@
 - [О рецензировании кода | С. Тепляков](/software-development/2020-02-09-code-review-about.md)
 - [Continious integration principles](/software-development/2020-03-12-continious-integration-principles.md)
 - [Теория цвета, контраст](/software-development/2020-03-31-color-theory.md)
+- [10 Things Every Developer Should Learn](/software-development/2020-07-23-ten-things-to-know.md)
 
 ## Технологии
 
