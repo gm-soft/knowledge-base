@@ -48,6 +48,7 @@
 - [Какие вопросы задают Junior iOS разработчику на первых собеседованиях](https://habr.com/ru/post/493830/)
 - [Как украсть Macbook. Статья о системе безопасности Apple и о том, как сберечь хотя бы данные](https://habr.com/ru/company/ruvds/blog/495124/)
 - [Compositional Layout в iOS 13. Основы](https://habr.com/ru/post/495076/)
+- [Google Dorking или используем Гугл на максимум](https://habr.com/ru/company/postuf/blog/510766/)
 
 ## How to
 

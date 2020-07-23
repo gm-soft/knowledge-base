@@ -61,6 +61,7 @@
 - [What Great .NET Developers Ought To Know (More .NET Interview Questions)](/HR-namespace/2019-12-20-what-dotnet-developers-have-to-know.md)
 - [Про рынок ИТ в России по-честному](/HR-namespace/2020-02-21-about-hr-market-in-russia.md)
 - [Собеседования и HR. Подкаст](/HR-namespace/2020-02-21-hr-podcast-related-questions.md)
+- [Собеседование наоборот: вопросы соискателя к компании](HR-namespace/2020-07-23-interview-upside-down.md)
 
 ## Управление и менеджмент
 
@@ -130,6 +131,7 @@
 - [Continious integration principles](/software-development/2020-03-12-continious-integration-principles.md)
 - [Теория цвета, контраст](/software-development/2020-03-31-color-theory.md)
 - [10 Things Every Developer Should Learn](/software-development/2020-07-23-ten-things-to-know.md)
+- [You've only added two lines - why did that take two days](/software-development/2020-07-23-why-implementation-takes-much-time.md)
 
 ## Технологии
 
