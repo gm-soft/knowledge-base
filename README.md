@@ -131,7 +131,8 @@
 - [Continious integration principles](/software-development/2020-03-12-continious-integration-principles.md)
 - [Теория цвета, контраст](/software-development/2020-03-31-color-theory.md)
 - [10 Things Every Developer Should Learn](/software-development/2020-07-23-ten-things-to-know.md)
-- [You've only added two lines - why did that take two days](/software-development/2020-07-23-why-implementation-takes-much-time.md)
+- [You've only added two lines - why did that take two days](/software-development/2020-07-23-why-implementation-takes-much-time.md) - о том, почему некоторые фиксы занимают много времени
+- [«Конституция» для разработчиков SkyEng](/software-development/2020-07-25-software-development-principles.md)
 
 ## Технологии
 
