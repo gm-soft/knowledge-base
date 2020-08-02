@@ -51,6 +51,8 @@
 - [Google Dorking или используем Гугл на максимум](https://habr.com/ru/company/postuf/blog/510766/)
 - [Аутентификация и чтение секретов в HashiCorp's Vault через GitLab CI](https://habr.com/ru/company/nixys/blog/512754/)
 - [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/company/mobileup/blog/313538/)
+- [10 советов, как ревьюить код, который вам не нравится](https://habr.com/ru/post/459718/)
+- [Отучаемся от токсичных практик на код-ревью](https://habr.com/ru/post/453968/)
 
 ## How to
 
