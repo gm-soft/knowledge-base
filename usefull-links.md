@@ -76,8 +76,13 @@
 - [Curated colors in context](https://www.happyhues.co) - сайт, который позволяет выбрать палитру цвета для собственного веб-портала или приложения.
 - [Лучшие практики повышения производительности в C#](https://habr.com/ru/company/otus/blog/502498/)
 - [Введение в Webpack для новичков](https://medium.com/nuances-of-programming/введение-в-webpack-для-новичков-6cafbf562386)
-- [Что такое хорошо и что такое плохо. Карьера разработчика глазами его руководителя
-](https://habr.com/ru/company/haulmont/blog/504050/)
+- [Что такое хорошо и что такое плохо. Карьера разработчика глазами его руководителя](https://habr.com/ru/company/haulmont/blog/504050/)
+- [Что такое Docker: краткий экскурс в историю и основные абстракции](https://habr.com/ru/company/southbridge/blog/515508/)
+- [Angular lazyload module без route](https://tyapk.ru/blog/post/angular-lazy-load-modules)
+- [Angular 9: Lazy Loading Components](https://johnpapa.net/angular-9-lazy-loading-components/)
+- [REST API: что это простыми словами: принципы, стандарты, описание](https://boodet.online/reastapi)
+- [Как и почему в InnoDB появились индексы на основе В-дерева](https://habr.com/ru/company/citymobil/blog/514596/)
+- [Основы правил проектирования базы данных](https://habr.com/ru/post/514364/)
 
 ## Блоги
 
