@@ -83,6 +83,9 @@
 - [REST API: что это простыми словами: принципы, стандарты, описание](https://boodet.online/reastapi)
 - [Как и почему в InnoDB появились индексы на основе В-дерева](https://habr.com/ru/company/citymobil/blog/514596/)
 - [Основы правил проектирования базы данных](https://habr.com/ru/post/514364/)
+- [Как управлять состоянием в Angular по мере роста приложения](https://habr.com/ru/company/custis/blog/516290/)
+- [Redux. Простой как грабли](https://habr.com/ru/post/439104/)
+- [Кто такие шизоиды и где они обитают](https://habr.com/ru/post/516176/)
 
 ## Блоги
 
