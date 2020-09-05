@@ -86,6 +86,8 @@
 - [Как управлять состоянием в Angular по мере роста приложения](https://habr.com/ru/company/custis/blog/516290/)
 - [Redux. Простой как грабли](https://habr.com/ru/post/439104/)
 - [Кто такие шизоиды и где они обитают](https://habr.com/ru/post/516176/)
+- [Быстрорастворимое проектирование](https://habr.com/ru/company/jugru/blog/447308/) - .NET, микросервисы и слои приложения
+- [Избавляемся от boilerplate для валидации в ASP.NET MVC](https://habr.com/ru/post/346308/)
 
 ## Блоги
 
