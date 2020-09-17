@@ -39,6 +39,7 @@
 - [Некоторые аспекты работы с Dictionary при разработке нагруженных приложений](/dot-net/2020-02-21-disctionary-in-dotnet.md)
 - [Async programming in .NET: Best practices](/dot-net/2020-05-06-async-await-about.md)
 - [Повышаем надёжность HttpClient’а в .NET Core или как ошибиться в 3 строках кода 4 раза](/dot-net/2020-05-31-dotnet-httpclient-about.md)
+- [Domain Driven Design на практике](/dot-net/2020-09-16-ddd-in-dotnet.md)
 
 ## Все, что связано с наймом
 
