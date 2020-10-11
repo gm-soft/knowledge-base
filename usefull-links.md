@@ -88,6 +88,9 @@
 - [Кто такие шизоиды и где они обитают](https://habr.com/ru/post/516176/)
 - [Быстрорастворимое проектирование](https://habr.com/ru/company/jugru/blog/447308/) - .NET, микросервисы и слои приложения
 - [Избавляемся от boilerplate для валидации в ASP.NET MVC](https://habr.com/ru/post/346308/)
+- [CQRS. Факты и заблуждения](https://habr.com/ru/post/347908/)
+- [Command and Query Responsibility Segregation (CQRS) на практике](https://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
+- [Tackling cross-cutting concerns with a mediator pipeline](https://lostechies.com/jimmybogard/2014/09/09/tackling-cross-cutting-concerns-with-a-mediator-pipeline/)
 
 ## Блоги
 
