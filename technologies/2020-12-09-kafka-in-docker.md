@@ -1,6 +1,7 @@
 # Deploy a Kafka broker in a Docker container
 
 [Source](https://www.kaaproject.org/blog/kafka-docker)
+[Source 2](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/)
 
 ---
 
