@@ -145,6 +145,7 @@
 - [Adding an application in Hashicorp Vault](/technologies/2019-10-09-how-to-add-approles-authentication-vault.md)
 - [Apple Wallet. Что это такое и как интегрировать в него свою карту](/technologies/2019-12-20-how-to-integrate-your-card-into-apple-wallet.md)
 - [Continuously Integrating Angular with Azure DevOps](/technologies/2019-12-20-ci-angular-with-azure-devops.md)
+- [Deploy a Kafka broker in a Docker container](/technologies/2020-12-09-kafka-in-docker.md)
 
 ## Полезные штуки и вещи
 
