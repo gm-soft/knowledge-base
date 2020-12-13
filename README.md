@@ -9,6 +9,7 @@
 - [Angular 8. Alert (Toaster) Notifications](/frontend/2020-02-08-how-to-create-alert-service-in-angular-app.md)
 - [Знаменитые дизайнеры vs научные исследования про читаемость шрифтов](/frontend/2020-05-04-fonts-in-web-development.md)
 - [Почему вам НАДО отписываться от Observable?](/frontend/2020-10-31-unsubscribe.md)
+- [Знаменитые дизайнеры vs научные исследования про читаемость шрифтов](/frontend/2020-12-13-fonts.md)
 
 ## Базы данных
 
