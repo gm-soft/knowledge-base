@@ -5,6 +5,10 @@
 - [Workflow Core — движок бизнес-процессов для .Net Core](https://github.com/avanpostid/workflow-core)
 - [Ant Design. Альтернатива Bootstrap](https://ant.design)
 
+## Видео-лекции
+
+- [Мастер-класс "Почему Стив Джобс любил шрифты" (А. Каптерев)](https://youtu.be/vRzaPvm3nhY) и статья на [хабре](https://habr.com/ru/company/mailru/blog/344132/)
+
 ## Статьи
 
 - [Мотивация, делегирование и автоматизация: рецепт создания суперкоманды - habr.com](https://habr.com/ru/company/oleg-bunin/blog/456512/)
