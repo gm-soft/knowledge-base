@@ -61,6 +61,7 @@
 - [Ты добавил всего две строчки. Почему на это ушло два дня?](https://habr.com/ru/post/511044/)
 - [Ретроспектива проекта, на которую команде захочется приходить](https://habr.com/ru/post/513606/)
 - [Руководство по Docker Compose для начинающих](https://habr.com/ru/company/ruvds/blog/450312/)
+- [CI/CD для проекта в GitHub с развертыванием на AWS EC2](https://habr.com/ru/post/536118/)
 
 ## How to
 
