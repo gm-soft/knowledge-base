@@ -62,6 +62,8 @@
 - [Ретроспектива проекта, на которую команде захочется приходить](https://habr.com/ru/post/513606/)
 - [Руководство по Docker Compose для начинающих](https://habr.com/ru/company/ruvds/blog/450312/)
 - [CI/CD для проекта в GitHub с развертыванием на AWS EC2](https://habr.com/ru/post/536118/)
+- [Скрытые расходы при переходе на микросервисы](https://blog.byndyu.ru/2020/12/blog-post.html)
+- [Переход от монолитной архитектуры к распределенной](https://blog.byndyu.ru/2014/05/blog-post.html)
 
 ## How to
 
