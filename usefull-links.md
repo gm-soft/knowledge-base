@@ -64,6 +64,7 @@
 - [CI/CD для проекта в GitHub с развертыванием на AWS EC2](https://habr.com/ru/post/536118/)
 - [Скрытые расходы при переходе на микросервисы](https://blog.byndyu.ru/2020/12/blog-post.html)
 - [Переход от монолитной архитектуры к распределенной](https://blog.byndyu.ru/2014/05/blog-post.html)
+- [Уровни изолированности транзакций для самых маленьких](https://habr.com/ru/post/469415/)
 
 ## How to
 
