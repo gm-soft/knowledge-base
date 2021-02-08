@@ -99,6 +99,9 @@
 - [CQRS. Факты и заблуждения](https://habr.com/ru/post/347908/)
 - [Command and Query Responsibility Segregation (CQRS) на практике](https://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
 - [Tackling cross-cutting concerns with a mediator pipeline](https://lostechies.com/jimmybogard/2014/09/09/tackling-cross-cutting-concerns-with-a-mediator-pipeline/)
+- [Уровни изоляции транзакций](https://habr.com/ru/post/469415/)
+- [Под капотом у Dictionary и ConcurrentDictionary](https://habr.com/ru/post/198104/)
+- [Развертывание .NET Core проекта в Azure Web App для Linux](https://habr.com/ru/post/336948/)
 
 ## Блоги
 
