@@ -65,6 +65,9 @@
 - [Скрытые расходы при переходе на микросервисы](https://blog.byndyu.ru/2020/12/blog-post.html)
 - [Переход от монолитной архитектуры к распределенной](https://blog.byndyu.ru/2014/05/blog-post.html)
 - [Уровни изолированности транзакций для самых маленьких](https://habr.com/ru/post/469415/)
+- [Система font fallback: что происходит, когда шрифт не может найти нужный символ](https://habr.com/ru/post/521740/)
+- [Рендеринг текста вас ненавидит](https://habr.com/ru/post/469529/)
+- [Редактирование текста тоже вас ненавидит](https://habr.com/ru/post/474036/)
 
 ## How to
 
@@ -102,6 +105,9 @@
 - [Уровни изоляции транзакций](https://habr.com/ru/post/469415/)
 - [Под капотом у Dictionary и ConcurrentDictionary](https://habr.com/ru/post/198104/)
 - [Развертывание .NET Core проекта в Azure Web App для Linux](https://habr.com/ru/post/336948/)
+- [ASP.NET Core 3.1 - Create and Validate JWT Tokens + Use Custom JWT Middleware](https://jasonwatmore.com/post/2020/07/21/aspnet-core-3-create-and-validate-jwt-tokens-use-custom-jwt-middleware)
+- [ASP.NET Core 3.1 - Role Based Authorization Tutorial with Example API](https://jasonwatmore.com/post/2019/10/16/aspnet-core-3-role-based-authorization-tutorial-with-example-api)
+- [ASP.NET Core 3.1 - Send Emails via SMTP with MailKit](https://jasonwatmore.com/post/2020/07/15/aspnet-core-3-send-emails-via-smtp-with-mailkit)
 
 ## Блоги
 
