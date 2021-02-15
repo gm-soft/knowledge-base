@@ -77,6 +77,7 @@
 - [Как давать фидбек сотрудникам](/management/2020-03-09-how-to-give-feedback-to-employees.md)
 - [Как делегировать в условиях удаленной работы — руководство для тимлида и не только](/management/2020-03-22-how-to-delegate-during-remote-work.md)
 - [Кодекс команды, шаблон](/management/2020-07-31-my-code-of-conduct.md)
+- [Техдолг. Все говорят: «невозможно», а я говорю, что буду](/management/2021-02-15-whose-is-techdebt.md)
 
 ## Философия / психология
 
