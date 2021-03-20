@@ -68,6 +68,9 @@
 - [Система font fallback: что происходит, когда шрифт не может найти нужный символ](https://habr.com/ru/post/521740/)
 - [Рендеринг текста вас ненавидит](https://habr.com/ru/post/469529/)
 - [Редактирование текста тоже вас ненавидит](https://habr.com/ru/post/474036/)
+- [Обзор](https://apolomodov.medium.com/обзор-fundamentals-of-software-architecture-1754c0e78d48) книги “Fundamentals of Software Architecture”
+- [Обзор](https://apolomodov.medium.com/обзор-книги-what-is-domain-driven-design-7128373196e8) книги “What Is Domain-Driven Design?”
+- [Как прокачаться в проектировании программного обеспечения — список книг](https://apolomodov.medium.com/software-design-books-743be52e4c71)
 
 ## How to
 
