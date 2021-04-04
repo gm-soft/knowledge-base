@@ -111,6 +111,8 @@
 - [ASP.NET Core 3.1 - Create and Validate JWT Tokens + Use Custom JWT Middleware](https://jasonwatmore.com/post/2020/07/21/aspnet-core-3-create-and-validate-jwt-tokens-use-custom-jwt-middleware)
 - [ASP.NET Core 3.1 - Role Based Authorization Tutorial with Example API](https://jasonwatmore.com/post/2019/10/16/aspnet-core-3-role-based-authorization-tutorial-with-example-api)
 - [ASP.NET Core 3.1 - Send Emails via SMTP with MailKit](https://jasonwatmore.com/post/2020/07/15/aspnet-core-3-send-emails-via-smtp-with-mailkit)
+- [Разложение монолита](https://habr.com/ru/post/548054/)
+- [User Authentication and Identity with Angular, Asp.Net Core and IdentityServer](https://fullstackmark.com/post/21/user-authentication-and-identity-with-angular-aspnet-core-and-identityserver)
 
 ## Блоги
 
